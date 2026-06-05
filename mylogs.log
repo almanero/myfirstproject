@@ -1,0 +1,10 @@
+processing
+memory'
+waiting 
+downloading..
+
+
+
+ one million data ---> file size also increased
+ but when we push this file  on git hub it will take/consume much time on pusing or pulling 
+ so to stop time consuiming AND to ignore file we create a .gitignore
